@@ -1,5 +1,3 @@
-### Привет 👋
-
 Languages and Tools:
 
 <div style="display: flex;">
